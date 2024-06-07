@@ -6,16 +6,16 @@ Keep a lookout for the time limit
 ANS> 2007 ish
 
 2> Pratham Budget
-ANS> 
+ANS> 1.5 cr
 
 3> How many models of the satellite were made. Name them
-ANS> 1.5 cr
+ANS> Tough
 
 3> Name the current Faculty Advisors of IITBSSP
 ANS> prof Maity, prof Bhalerao
 
 4> We had a collaboration with another University for Pratham. Which country/city was this university in?
-ANS>
+ANS> Tough
 
 5> What is the motto on the IITBSSP Logo
 ANS> aiming toward infinity
@@ -26,6 +26,6 @@ ANS> ameya bhaiya
 7> For this question you have to create a directory called "src" in the repo and add a python script that prints "All hail <Your Name>!" at 1Hz
 
 8> Ask the presenter to shift to the next slide and answer the question on the slide
-ANS>
+ANS> Tough one, saw it on the net but couldn't understand really
 
 DONE!
