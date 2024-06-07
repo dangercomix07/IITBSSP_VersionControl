@@ -1,0 +1,1 @@
+print('All hai Ameya Bhaiya!')
