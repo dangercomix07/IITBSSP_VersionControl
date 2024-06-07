@@ -3,29 +3,31 @@ Edit this text file by adding answers to the following questions
 Keep a lookout for the time limit
 
 1> When was IITBSSP Founded?
-ANS>
+ANS>26th sep 2016
 
 2> Pratham Budget
-ANS>
+ANS> around 15 lakh-ish..
 
 3> How many models of the satellite were made. Name them
-ANS>
+ANS>..
 
 3> Name the current Faculty Advisors of IITBSSP
-ANS>
+ANS>..
 
 4> We had a collaboration with another University for Pratham. Which country/city was this university in?
-ANS>
+ANS>France
 
 5> What is the motto on the IITBSSP Logo
-ANS>
+ANS>AADISH ANANTHY
 
 6> Name all the Project Managers you know
-ANS>
+ANS>Ameya markarkandy
 
 7> For this question you have to create a directory called "src" in the repo and add a python script that prints "All hail <Your Name>!" at 1Hz
+Done.
 
 8> Ask the presenter to shift to the next slide and answer the question on the slide
-ANS>
+ANS>git add ., adds the files which are being tracked(in the repo) and git add * also adds filed which are not being tracked may be system hidden files in the local repo
+but apparently there is no such command called git add :, at least i dont know (sad face emoji)
 
 DONE!
