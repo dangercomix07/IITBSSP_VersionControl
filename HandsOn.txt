@@ -18,10 +18,10 @@ ANS>
 ANS>
 
 5> What is the motto on the IITBSSP Logo
-ANS>
+ANS>AADISH ANANTHY
 
 6> Name all the Project Managers you know
-ANS>
+ANS>Ameya markarkandy 
 
 7> For this question you have to create a directory called "src" in the repo and add a python script that prints "All hail <Your Name>!" at 1Hz
 
